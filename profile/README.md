@@ -11,6 +11,10 @@ no owning hardware.
 - 𝕏 X: <https://x.com/melaps_system>
 - 📊 Status: <https://melaps.xyz/status>
 
+## Token
+
+**$MELAPS** — contract address: `0x49b5a9fcd24ca5083fa05f9136e7d04564647621`
+
 ## Clusters
 
 | Cluster | GPUs | Region | Status |
